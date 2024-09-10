@@ -1,0 +1,130 @@
+/* h1{
+    font-size: 54px;
+    color: red;
+}
+
+.judul{
+    font-size: 32px;
+    color: blue;
+}
+
+.judul2{
+    color: green;
+}
+
+#judul{
+    color: blue;
+}
+ */
+
+ *{
+    color: red;
+ }
+
+ li a{
+    text-decoration: none;
+    color: blue;
+ }
+
+ a{
+    text-decoration: none;
+    color: blueviolet;
+ }
+
+ ul li a{
+    text-decoration: none;
+    color: aquamarine;
+ }
+
+ .judula{
+    color: brown;
+    text-decoration: none;
+ }
+
+ a{
+    color: brown;
+    font-size: 54px;
+ }
+
+ a:hover{
+    color: aqua;
+    text-decoration: none;
+ }
+
+ h1:hover{
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;
+ }
+
+ li a:hover{
+    color: yellow;
+ }
+
+ a:active{
+    color: blueviolet;
+ }
+ 
+ h1:active{
+    color: blue;
+ }
+
+ &:visited{
+    color: aquamarine;
+ }
+
+ a{
+    text-decoration: none;
+    font-size: 42px;
+ }
+ 
+ li:first-child a{
+    color: brown;
+ }
+
+ li:last-child a{
+    color: black;
+ }
+  li:nth-child(4)  a{
+    color: red;
+  }
+
+  li:nth-child(3n+2) a{
+    color: green;
+  }
+
+  li:nth-child(even) a{
+    color: aquamarine;
+  }
+
+  body{
+    color: aqua;
+    font-family:arial,sans-serif;
+  }
+
+  a{
+    color: inherit;
+  }
+
+
+  p{
+    color: red;
+  }
+
+  p{
+    color: blue;
+  }
+
+  #p1{
+    color: green;
+  }
+  
+  ul#hewan li{
+    color: red;
+  }
+
+  ul#hewan li.favorit{
+    color: blue;
+  }
+
+  

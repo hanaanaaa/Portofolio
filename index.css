@@ -1,0 +1,43 @@
+Body{
+    background-color: antiquewhite;
+    background-image: url(./logo.jpeg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 80px;
+}
+
+h1{
+    font-family: arial, verdana, sans-serif;
+    font-size: 50%;
+    font-weight: 900;
+    font-variant: small-caps;
+    font-style: oblique;
+}
+
+p{
+    color:rgb(150,224,23)
+}
+
+p{
+    text-align: justify;
+    text-indent: 25px;
+    line-height: 50px;
+}
+h2{
+    text-decoration: line-through;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+     word-spacing: 60px;
+}
+
